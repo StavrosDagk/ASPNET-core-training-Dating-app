@@ -1,3 +1,3 @@
-# ASPNET core Angular training: Dating-app
+# ASPNET core training: Dating-app
 
 Simple AspNet and Angular webapp for training purposes.
